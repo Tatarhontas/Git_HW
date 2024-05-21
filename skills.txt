@@ -1,0 +1,7 @@
+JS
+TS
+AQA
+WebdriverIO
+Cucumber
+Playwright
+CI/CD
